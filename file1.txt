@@ -1,0 +1,8 @@
+
+        A la fecha: 2023-06-19T04:00:00.000Z
+
+        Fue realizada cotización con los siguientes datos:
+
+        Cantidad de pesos a convertir: 250 pesos
+
+        Convertido a dolar da un total de: $793.35
